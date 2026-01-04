@@ -16,7 +16,7 @@ function App() {
   return (
     <ToastProvider>
       <HotelProvider>
-        <Router>
+        <Router basename="/hotel_management">
           <Layout>
             <Routes>
               <Route path="/" element={<Home />} />

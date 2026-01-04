@@ -9,9 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "rm -rf node_modules/.cache/gh-pages && gh-pages -d dist"
   },
-  "homepage": "https://adreaminnovations.github.io/hotel_management/",
+  "homepage": "https://adreaminnovations.github.io/hotel_management",
   "dependencies": {
     "clsx": "^2.1.1",
     "lucide-react": "^0.562.0",

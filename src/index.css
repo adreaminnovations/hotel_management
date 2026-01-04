@@ -25,6 +25,11 @@
   h6 {
     @apply font-serif text-primary;
   }
+
+  button,
+  a {
+    @apply cursor-pointer;
+  }
 }
 
 @keyframes fadeIn {

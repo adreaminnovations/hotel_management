@@ -14,6 +14,13 @@ A modern, responsive, and feature-rich hotel management application built with R
 *   **Toast Notifications**: Professional, non-intrusive alerts for user interactions.
 *   **Responsive Design**: Fully functional across all device sizes, from mobile phones to large desktops.
 
+## Demo Credentials
+
+To access the Admin Dashboard, use the following credentials:
+
+*   **Email**: `admin@luxestay.com`
+*   **Password**: `admin123`
+
 ## Tech Stack
 
 *   **Frontend**: React 19, React Router v7
