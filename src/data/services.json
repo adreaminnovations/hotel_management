@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "High-Speed WiFi",
+        "icon": "Wifi",
+        "description": "Stay connected with complimentary high-speed internet access throughout the hotel."
+    },
+    {
+        "id": 2,
+        "name": "Luxury Spa",
+        "icon": "Sparkles",
+        "description": "Indulge in a range of relaxing treatments and massages at our award-winning spa."
+    },
+    {
+        "id": 3,
+        "name": "Infinity Pool",
+        "icon": "Waves",
+        "description": "Take a dip in our stunning infinity pool overlooking the ocean."
+    },
+    {
+        "id": 4,
+        "name": "Fitness Center",
+        "icon": "Dumbbell",
+        "description": "Maintain your workout routine with our state-of-the-art gym equipment."
+    },
+    {
+        "id": 5,
+        "name": "Valet Parking",
+        "icon": "Car",
+        "description": "Convenient and secure valet parking service for all our guests."
+    },
+    {
+        "id": 6,
+        "name": "24/7 Room Service",
+        "icon": "Utensils",
+        "description": "Enjoy delicious meals delivered to your room at any time of the day or night."
+    }
+]
